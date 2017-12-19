@@ -1,0 +1,12 @@
+docker-compose up
+
+UI port 1080
+mail port 1025
+
+mail template mjml
+
+to send email: node index.js
+
+mjml seems quite slow on runtime compile.
+precompile HTML before use!
+

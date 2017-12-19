@@ -1,0 +1,13 @@
+{
+  "name": "testmail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "./node_modules/.bin/nodemon index.js"
+  },
+  "dependencies": {
+    "mjml": "^3.3.5",
+    "nodemailer": "^4.4.1"
+  }
+}
